@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZEVORA</string>
+    <string name="tagline">Never Miss What Matters.</string>
+    <string name="good_morning">GOOD MORNING 👋</string>
+    <string name="good_afternoon">GOOD AFTERNOON 👋</string>
+    <string name="good_evening">GOOD EVENING 👋</string>
+</resources>

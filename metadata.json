@@ -1,0 +1,6 @@
+{
+  "name": "ZEVORA",
+  "description": "Smart medicine dispenser companion app with real-time Bluetooth Low Energy ESP32 connectivity, live dosage countdowns, and schedule synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
